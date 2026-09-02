@@ -1,3 +1,14 @@
+# 网站密钥
+- 锁定码Admin-N9567ueHS-TAO-KKAp25RASD2Q34
+
+- 校验码Admin-jjhwiIWKAJ-TAO-wsF213KJHKHN
+
+- 演示账户用户名
+- TAO
+
+- 演示账户默认密码
+- Admin@2026#Secure
+
 # 个人官方网站 PRD
 ## 1. 项目概述
 
